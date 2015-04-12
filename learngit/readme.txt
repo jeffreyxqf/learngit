@@ -4,4 +4,4 @@ Git is a distributed version control system.
 
 Learn Branch Creating a new branch is quick.
 
-conffafe
+Creating a new branch is quick and simple.
