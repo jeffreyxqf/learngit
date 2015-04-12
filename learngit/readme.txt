@@ -1,7 +1,6 @@
 Learn Git led by jeffrey 
 Git is a distributed version control system.
-Git is free software.
-Git is a version control system.
+ 
 
-Learn Branch 
+Learn Branch Creating a new branch is quick.
 
